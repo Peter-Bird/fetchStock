@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Stock Downloader
+Exec=python3 /home/julian/Desktop/project/Downloader.py
+Icon=utilities-terminal
+Terminal=false
+Name[en_IL]=Downloader
